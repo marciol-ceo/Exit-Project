@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72665475722",
+    "firebase_url": "https://exit-57b4d.firebaseio.com",
+    "project_id": "exit-57b4d",
+    "storage_bucket": "exit-57b4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72665475722:android:a041fbb21e81f1ef60db73",
+        "android_client_info": {
+          "package_name": "com.xploziph.exit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72665475722-j1c9n8n3k54hsdabdrcdag9l5btdm57p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDtk8sEnI-_MYKhOC4moKuZ4088h9mrlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72665475722-j1c9n8n3k54hsdabdrcdag9l5btdm57p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
